@@ -1,0 +1,60 @@
+.border_men {
+    border: 1px solid black;
+    width: 80%;
+    height: 450px;
+    margin-left: 50px;
+    background-color: #444144;
+    text-align: center;
+    color: white;
+    h5 {
+    padding: 10px;
+    }
+    img {
+    height: 350px;
+    width: 300px;
+    padding: 20px;
+    }
+    span {
+    background-color: #e44486;
+    padding: 10px;
+    }
+    }
+    .shop_cur {
+    cursor: pointer;
+    }
+    @media (min-width: 360px) and (max-width: 640px) {
+    .border_men {
+    img {
+    height: 350px;
+    width: 250px;
+    padding: 20px;
+    }
+    }
+    }
+    @media (min-width: 320px) and (max-width: 568px) {
+    .border_men {
+    img {
+    height: 350px;
+    width: 200px;
+    padding: 20px;
+    }
+    }
+    }
+    @media (min-width: 768px) and (max-width: 1024px) {
+    .border_men {
+    img {
+    height: 350px;
+    width: 500px;
+    padding: 20px;
+    }
+    }
+    }
+    @media (min-width: 1024px) and (max-width: 1366px) {
+    .border_men {
+    img {
+    height: 350px;
+    width: 300px;
+    padding: 20px;
+    }
+    }
+    }

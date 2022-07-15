@@ -1,0 +1,18 @@
+.sign-up {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    .title {
+    margin: 10px 0;
+    }
+    .text_email,.text_input,.Passowrd_box{
+    width: 100%;
+    }
+    .signup{
+    background-color: rgb(8, 1, 7);
+    color:#fff;
+    padding: 10px;
+    width:200px;
+    margin-top: 30px;
+    }
+    }

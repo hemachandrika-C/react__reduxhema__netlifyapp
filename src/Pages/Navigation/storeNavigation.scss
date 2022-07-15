@@ -1,0 +1,26 @@
+.bg-light {
+    background-color: #e44486 !important;
+    color: white;
+    }
+    .navbar .navbar-nav .nav-item .nav-link {
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-left: 15px;
+    }
+    .Navbar {
+    margin-top: 5px;
+    }
+    .dropdown-menu {
+    width: 500px;
+    height: 300px;
+    }
+    @media (max-width: 991px) {
+    .hide {
+    visibility: hidden;
+    }
+    .dropdown-menu {
+    width: 300px;
+    height: 300px;
+    }
+    }

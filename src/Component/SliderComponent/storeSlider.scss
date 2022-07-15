@@ -1,0 +1,31 @@
+.slide_navbar {
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    h1 {
+    color: black;
+    font-size: 50px;
+    padding-top: 100px;
+    }
+    h2 {
+    padding-top: 5px;
+    }
+    button {
+    color: white;
+    background: #ed1965;
+    border-color: #ed1965;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    }
+    }
+    @media (max-width: 500px) {
+    h1 {
+    color: black;
+    font-size: 30px;
+    padding-top: 100px;
+    }
+    }

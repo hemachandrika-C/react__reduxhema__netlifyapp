@@ -1,0 +1,37 @@
+.border_item_lehen {
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    img {
+    width: 100%;
+    height: 500px;
+    padding: 10px;
+    }
+    }
+    .itemsmenu {
+    margin-top: 50px;
+    }
+    .view_Details {
+    background-color: #e44486;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    font-family: "Roboto Condensed", sans-serif;
+    }
+    .link,
+    .link:hover {
+    text-decoration: none;
+    }
+    @media (max-width: 640px) {
+    .border_item_lehen {
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+    img {
+    width: 100%;
+    height: 500px;
+    padding: 10px;
+    }
+    }
+    }
